@@ -1,0 +1,21 @@
+{
+  "name": "phaser-template",
+  "version": "1.0.0",
+  "description": "A template to quickly start building phaser games",
+  "type": "module",
+  "scripts": {
+    "start": "parcel index.html --open"
+  },
+  "keywords": [
+    "p5"
+  ],
+  "author": "gagdiez",
+  "license": "MIT",
+  "dependencies": {
+    "p5": "1.9.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  }
+}
