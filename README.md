@@ -2,21 +2,23 @@
 
 This repository contains small coding challenges using the [P5.js](https://p5js.org/) library. The challenges are based on the [Coding Train](https://www.youtube.com/user/shiffman) YouTube channel.
 
-> [!INFO]
+> [!Note]
 > To run any project you will need [node.js](https://nodejs.org/en/) installed on your machine.
 > After installing node.js, you can run the following command to start the project:
 > `npm install`
 > `npm start`
 ---
 
-### [Template](./template)
+### Template
+
 ![t](.thumbnails/template.png)
-A template for creating new projects. It contains the basic setup for a P5.js project. 
+
+A [template](./template) for creating new projects. It contains the basic setup for a P5.js project. 
 
 ---
 
 ### Sand Simulations
-Different sand simulations using P5.js. Based on the [Challenge 180](https://www.youtube.com/watch?v=L4u7Zy_b868)
+Different sand simulations using P5.js. Based on the [challenge #180](https://www.youtube.com/watch?v=L4u7Zy_b868)
 
 ![s](.thumbnails/sand.gif)
 
